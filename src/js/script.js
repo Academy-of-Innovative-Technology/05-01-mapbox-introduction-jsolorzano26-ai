@@ -1,5 +1,5 @@
 
-const MAPBOX_ACCESS_TOKEN = "pk.eyJ1IjoianNvbG9yemFubzI2IiwiYSI6ImNtbzFyZzJlbTBtYTEyb3B1dzJ0aWI4cHMifQ.hDQrk0kII7YUCE3jE0NOLQ";
+const MAPBOX_ACCESS_TOKEN = // "pk.eyJ1IjoianNvbG9yemFubzI2IiwiYSI6ImNtbzFyZzJlbTBtYTEyb3B1dzJ0aWI4cHMifQ.hDQrk0kII7YUCE3jE0NOLQ"; //
 if (typeof MAPBOX_ACCESS_TOKEN === 'undefined') {
     console.error("Mapbox token is missing. Check your env.js file.");
 }
